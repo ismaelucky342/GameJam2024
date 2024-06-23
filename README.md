@@ -66,6 +66,9 @@ https://github.com/ismaelucky342/GameJam2024/assets/153450550/48038ec1-1f2b-4840
 
 
 # Extras 
+Special thanks to school 42 Madrid and Madrid in game group for this opportunity. I can't imagine a better way for someone who has started from scratch to get started in the world of video game development.
+
+-Born2code
 
 ![image](https://github.com/ismaelucky342/GameJam2024/assets/153450550/fa7b6e94-b568-4f0b-b699-61b750df2811)
 
