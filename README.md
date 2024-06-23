@@ -6,6 +6,13 @@ This project has been my first contact with the world of video game development,
 # Description
 "Take or Deal" is an exciting turn-based strategy game where two telecom companies compete fiercely to seize critical communication nodes. Each company must use smart tactics and a little luck to gain control of as many nodes as possible.
 
+# Dev Team 
+- Ismael Hernández: https://github.com/ismaelucky342
+- Raul de Miguel: https://github.com/Radfer10
+- Iván de Diego: https://github.com/HormiDev
+- Samuel Sánchez: https://github.com/Tagamydev
+- Lucas Coll: https://github.com/Lucaa-s
+
 # Objective of the game
 The objective of the game is to be the company with the most communication nodes under control at the end of the game. To achieve this, players must draw cards from a deck that can positively or negatively affect their control of nodes.
 
@@ -39,5 +46,29 @@ Negative cards decrease the number of nodes controlled by the player.
 - The game continues until all the cards in the deck have been drawn.
 - The player with the greatest number of nodes under his control at the end of the game is the winner.
 
+#### Game Features
+- 3D Graphics: "Take or Deal" offers immersive 3D graphics that make the gaming experience more engaging.
+Intuitive User Interface: The user interface is easy to use, allowing players to focus on their strategy.
+Animations and Effects: Animations and visual effects enhance the experience of drawing cards and earning nodes.
+Cross-platform: Developed in Unity, the game is compatible with multiple platforms, including Windows, macOS and Linux.
+
+#### Game Features
+- 3D Graphics: "Take or Deal" offers immersive 3D graphics that make the gaming experience more attractive for gameplay that should really be 2D.
+- Intuitive User Interface: The user interface is easy to use with a terminal with retro adapted sounds, allowing players to focus on their strategy and enjoy an audiovisual experience.
+- Cross-platform: Developed in Unity, the game is compatible with multiple platforms, including Windows, macOS and Linux.
+
+# Gameplay
 https://github.com/ismaelucky342/GameJam2024/assets/153450550/48038ec1-1f2b-4840-a31a-1f94321a1f05
+
+- [Original game music and sounds](https://github.com/ismaelucky342/GameJam2024/tree/main/Original%20game%20music%20and%20sounds)
+
+- [Game images](https://github.com/ismaelucky342/GameJam2024/tree/main/Game%20images)
+
+
+# Extras 
+Special thanks to school 42 Madrid and Madrid in game group for this opportunity. I can't imagine a better way for someone who has started from scratch to get started in the world of video game development.
+
+-Born2code
+
+![image](https://github.com/ismaelucky342/GameJam2024/assets/153450550/fa7b6e94-b568-4f0b-b699-61b750df2811)
 
