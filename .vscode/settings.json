@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Game_jam_42_Madrid_in_game.sln"
+    "dotnet.defaultSolution": "GameJam2024.sln"
 }
