@@ -7,11 +7,11 @@ This project has been my first contact with the world of video game development,
 "Take or Deal" is an exciting turn-based strategy game where two telecom companies compete fiercely to seize critical communication nodes. Each company must use smart tactics and a little luck to gain control of as many nodes as possible.
 
 # Dev Team 
-- Ismael Hernández: https://github.com/ismaelucky342
-- Raul de Miguel: https://github.com/Radfer10
-- Iván de Diego: https://github.com/HormiDev
-- Samuel Sánchez: https://github.com/Tagamydev
-- Lucas Coll: https://github.com/Lucaa-s
+- [**Ismael Hernández**](https://github.com/ismaelucky342)
+- [**Raul de Miguel**](https://github.com/Radfer10)
+- [**Iván de Diego**](https://github.com/HormiDev)
+- [**Samuel Sánchez**](https://github.com/Tagamydev)
+- [**Lucas Coll**](https://github.com/Lucaa-s)
 
 # Objective of the game
 The objective of the game is to be the company with the most communication nodes under control at the end of the game. To achieve this, players must draw cards from a deck that can positively or negatively affect their control of nodes.
